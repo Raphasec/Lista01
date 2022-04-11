@@ -1,0 +1,15 @@
+D:\Ifes\Programação para Web\Lista01\obj\Debug\net6.0\Lista01.csproj.AssemblyReference.cache
+D:\Ifes\Programação para Web\Lista01\obj\Debug\net6.0\Lista01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ifes\Programação para Web\Lista01\obj\Debug\net6.0\Lista01.AssemblyInfoInputs.cache
+D:\Ifes\Programação para Web\Lista01\obj\Debug\net6.0\Lista01.AssemblyInfo.cs
+D:\Ifes\Programação para Web\Lista01\obj\Debug\net6.0\Lista01.csproj.CoreCompileInputs.cache
+D:\Ifes\Programação para Web\Lista01\bin\Debug\net6.0\Lista01.exe
+D:\Ifes\Programação para Web\Lista01\bin\Debug\net6.0\Lista01.deps.json
+D:\Ifes\Programação para Web\Lista01\bin\Debug\net6.0\Lista01.runtimeconfig.json
+D:\Ifes\Programação para Web\Lista01\bin\Debug\net6.0\Lista01.dll
+D:\Ifes\Programação para Web\Lista01\bin\Debug\net6.0\Lista01.pdb
+D:\Ifes\Programação para Web\Lista01\obj\Debug\net6.0\Lista01.dll
+D:\Ifes\Programação para Web\Lista01\obj\Debug\net6.0\refint\Lista01.dll
+D:\Ifes\Programação para Web\Lista01\obj\Debug\net6.0\Lista01.pdb
+D:\Ifes\Programação para Web\Lista01\obj\Debug\net6.0\Lista01.genruntimeconfig.cache
+D:\Ifes\Programação para Web\Lista01\obj\Debug\net6.0\ref\Lista01.dll
