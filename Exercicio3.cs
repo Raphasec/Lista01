@@ -1,6 +1,5 @@
 public class Exercicio3{
-
-    public void Questao3(){
+    public void Questao(){
         string sexo;
 
         Console.WriteLine("Digite uma letra: ");

@@ -1,6 +1,5 @@
 public class Exercicio4{
-
-    public void Questao4(){
+    public void Questao(){
         string vogais = "aeiou";
         string letra;
 

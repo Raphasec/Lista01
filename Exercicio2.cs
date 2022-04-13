@@ -1,6 +1,5 @@
 public class Exercicio2{
-
-    public void Questao2(){
+    public void Questao(){
         int valor;
 
         Console.WriteLine("Digite um valor: ");

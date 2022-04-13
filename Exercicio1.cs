@@ -1,6 +1,5 @@
-public class Exercicio1
-{
-    public void Questao1(){
+public class Exercicio1{
+    public void Questao(){
         int x, y;
 
         Console.WriteLine("Digite o primeiro número: ");
