@@ -450,13 +450,93 @@
                         break;
                     }
                     break;
+                //Exercicio 21
                 case 21:
+                //Criação das variáveis
+                    Console.Clear();
+                    repet = 0;
+                
+                //Chamada do procedimento
+                    Exercicio21 ex21 = new Exercicio21();
+                    ex21.Questao();
+
+                //Repetição do programa
+                    Console.WriteLine("Deseja tentar novamente? [S/N]");
+                    resp = Console.ReadLine();
+                    fl = resp.Substring(0,1);
+                    resp = fl.ToUpper();
+                    if(resp == "S"){
+                        repet = 1;
+                        Console.Clear();
+                    }else{
+                        break;
+                    }
                     break;
+                // Exercicio 22
                 case 22:
+                //Criação das variáveis
+                    Console.Clear();
+                    repet = 0;
+
+                //Chamada do procedimento
+                    Exercicio22 ex22 = new Exercicio22();
+                    ex22.Questao();
+
+                //Repetição do programa
+                    Console.WriteLine("Deseja tentar novamente? [S/N]");
+                    resp = Console.ReadLine();
+                    fl = resp.Substring(0,1);
+                    resp = fl.ToUpper();
+                    if(resp == "S"){
+                        repet = 1;
+                        Console.Clear();
+                    }else{
+                        break;
+                    }
                     break;
+                //Exercicio 23
                 case 23:
+                //Criação das variáveis
+                    Console.Clear();
+                    repet = 0;
+
+                //Chamada do procedimento
+                    Exercicio23 ex23 = new Exercicio23();
+                    ex23.Questao();
+
+                //Repetição do programa
+                    Console.WriteLine("Deseja tentar novamente? [S/N]");
+                    resp = Console.ReadLine();
+                    fl = resp.Substring(0,1);
+                    resp = fl.ToUpper();
+                    if(resp == "S"){
+                        repet = 1;
+                        Console.Clear();
+                    }else{
+                        break;
+                    }
                     break;
+                //Exercicio 24
                 case 24:
+                //Criação das variáveis
+                    Console.Clear();
+                    repet = 0;
+                
+                //Chamada do procedimento
+                    Exercicio24 ex24 = new Exercicio24();
+                    ex24.Questao();
+
+                //Repetição do programa
+                    Console.WriteLine("Deseja tentar novamente? [S/N]");
+                    resp = Console.ReadLine();
+                    fl = resp.Substring(0,1);
+                    resp = fl.ToUpper();
+                    if(resp == "S"){
+                        repet = 1;
+                        Console.Clear();
+                    }else{
+                        break;
+                    }
                     break;
                 default:
                     repet = 1;
